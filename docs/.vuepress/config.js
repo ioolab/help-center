@@ -1,6 +1,7 @@
 module.exports = {
   title: '小羽帮助中心',
   description: '小羽帮助中心',
+  base: '/help-center/',
   themeConfig: {
     logo: '/img/logo.png',
     nav: [
