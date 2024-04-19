@@ -1,4 +1,7 @@
 module.exports = {
+  head: [
+    ['link', { rel: 'icon', href: '/img/logo.png' }]
+  ],
   title: '小羽帮助中心',
   description: '小羽帮助中心',
   base: '/help-center/',
