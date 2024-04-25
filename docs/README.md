@@ -1,7 +1,7 @@
 # 最新网址
 ## 小羽Pro网址
 * [主: http://w1.awings.info](http://w1.awings.info)
-* [备1: https://fly2.awings.cc/](https://fly2.awings.cc/)
+* [备1: https://fly1.awings.cc/](https://fly2.awings.cc/)
 
 ## 小羽Pro客户端下载地址
 * [Android](http://rs2.awings.cc/api/bg/apk/xiaoyupro-android-latest.apk?v=100)
