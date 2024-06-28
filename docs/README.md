@@ -2,9 +2,9 @@
 <span style="color:#FF0000;">如果点击不能下载, 请复制链接到新窗口下载</span>
 
 ## 小羽Pro网址
-* [主: https://fly4.awings.cc](https://fly4.awings.cc)
-* [备1: https://fly1.awings.cc/](https://fly1.awings.cc)
-* [备2: https://fly5.awings.cc/](https://fly5.awings.cc)
+* [主: https://w3.awings.info](https://w3.awings.info)
+* [备1: https://w4.awings.info](https://w4.awings.info)
+* [备2: http://w6.awings.info/](http://w6.awings.info)
 
 ## 小羽Pro客户端下载地址
 * [Android](http://rs2.awings.cc/api/bg/apk/xiaoyupro-android-latest.apk?v=100)
