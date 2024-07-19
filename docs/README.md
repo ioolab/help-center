@@ -8,13 +8,13 @@
 * [备3: http://w6.awings.info/](http://w6.awings.info)
 
 ## 小羽Pro客户端下载地址
-* [Android](http://rs2.awings.cc/api/bg/apk/xiaoyupro-android-latest.apk?v=100)
-    * http://rs2.awings.cc/api/bg/apk/xiaoyupro-android-latest.apk?v=100
-* [Windows](http://rs2.awings.cc/api/bg/apk/xiaoyupro-win-latest.exe?v=100)
-    * http://rs2.awings.cc/api/bg/apk/xiaoyupro-win-latest.exe?v=100
-* [MacOS](http://rs2.awings.cc/api/bg/apk/xiaoyupro-mac-latest.dmg?v=100)
-    * http://rs2.awings.cc/api/bg/apk/xiaoyupro-mac-latest.dmg?v=100
+* [Android](https://rs2.awings.cc/api/bg/apk/xiaoyupro-android-latest.apk?v=100)
+    * https://rs2.awings.cc/api/bg/apk/xiaoyupro-android-latest.apk?v=100
+* [Windows](https://rs2.awings.cc/api/bg/apk/xiaoyupro-win-latest.exe?v=100)
+    * https://rs2.awings.cc/api/bg/apk/xiaoyupro-win-latest.exe?v=100
+* [MacOS](https://rs2.awings.cc/api/bg/apk/xiaoyupro-mac-latest.dmg?v=100)
+    * https://rs2.awings.cc/api/bg/apk/xiaoyupro-mac-latest.dmg?v=100
 
 ## 小羽免费版下载地址
-* [Android](http://rs2.awings.cc/api/bg/apk/smallwings-latest.apk?v=58)
-    * http://rs2.awings.cc/api/bg/apk/smallwings-latest.apk?v=58
+* [Android](https://rs2.awings.cc/api/bg/apk/smallwings-latest.apk?v=58)
+    * https://rs2.awings.cc/api/bg/apk/smallwings-latest.apk?v=58
