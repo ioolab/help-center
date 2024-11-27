@@ -8,21 +8,17 @@
 * [https://w3.awings.info](https://w3.awings.info) [http://w6.awings.info/](http://w6.awings.info) [http://w7.awings.info/](http://w7.awings.info)
 
 ## 小羽Pro客户端下载地址
-* [Android](https://rs2.awings.info/api/bg/apk/xiaoyupro-android-latest.apk?v=100)
-    * http://s1.awings.cc/api/bg/apk/xiaoyupro-android-latest.apk?v=100
-    * http://s2.awings.cc/api/bg/apk/xiaoyupro-android-latest.apk?v=100
-    * http://s3.awings.cc/api/bg/apk/xiaoyupro-android-latest.apk?v=100
-* [Windows](https://rs2.awings.info/api/bg/apk/xiaoyupro-win-latest.exe?v=100)
-    * http://s1.awings.cc/api/bg/apk/xiaoyupro-win-latest.exe?v=100
-    * http://s2.awings.cc/api/bg/apk/xiaoyupro-win-latest.exe?v=100
-    * http://s3.awings.cc/api/bg/apk/xiaoyupro-win-latest.exe?v=100
-* [MacOS](https://rs2.awings.info/api/bg/apk/xiaoyupro-mac-latest.dmg?v=100)
-    * http://s1.awings.cc/api/bg/apk/xiaoyupro-mac-latest.dmg?v=100
-    * http://s2.awings.cc/api/bg/apk/xiaoyupro-mac-latest.dmg?v=100
-    * http://s3.awings.cc/api/bg/apk/xiaoyupro-mac-latest.dmg?v=100
+* [Android](https://s2.awings.me/api/bg/apk/xiaoyupro-android-latest.apk?v=100)
+    * http://s3.awings.me/api/bg/apk/xiaoyupro-android-latest.apk?v=100
+    * http://s4.awings.me/api/bg/apk/xiaoyupro-android-latest.apk?v=100
+* [Windows](https://s2.awings.me/api/bg/apk/xiaoyupro-win-latest.exe?v=100)
+    * http://s3.awings.me/api/bg/apk/xiaoyupro-win-latest.exe?v=100
+    * http://s4.awings.me/api/bg/apk/xiaoyupro-win-latest.exe?v=100
+* [MacOS](https://s2.awings.me/api/bg/apk/xiaoyupro-mac-latest.dmg?v=100)
+    * http://s3.awings.me/api/bg/apk/xiaoyupro-mac-latest.dmg?v=100
+    * http://s4.awings.me/api/bg/apk/xiaoyupro-mac-latest.dmg?v=100
 
 ## 小羽免费版下载地址
-* [Android](https://rs2.awings.info/api/bg/apk/smallwings-latest.apk?v=58)
-    * http://s1.awings.cc/api/bg/apk/smallwings-latest.apk?v=58
-    * http://s2.awings.cc/api/bg/apk/smallwings-latest.apk?v=58
-    * http://s3.awings.cc/api/bg/apk/smallwings-latest.apk?v=58
+* [Android](https://s2.awings.me/api/bg/apk/smallwings-latest.apk?v=58)
+    * http://s3.awings.me/api/bg/apk/smallwings-latest.apk?v=58
+    * http://s4.awings.me/api/bg/apk/smallwings-latest.apk?v=58
