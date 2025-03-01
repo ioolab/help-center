@@ -19,6 +19,6 @@
     * http://s4.awings.me/api/bg/apk/xiaoyupro-mac-latest.dmg?v=100
 
 ## 小羽免费版下载地址
-* [Android](https://s2.awings.me/api/bg/apk/wingslet.apk?v=11)
-    * http://s3.awings.me/api/bg/apk/wingslet-latest.apk?v=11
-    * http://s4.awings.me/api/bg/apk/wingslet-latest.apk?v=11
+* [Android](https://s2.awings.me/api/bg/apk/wingslet.apk?v=77)
+    * http://s3.awings.me/api/bg/apk/wingslet-latest.apk?v=77
+    * http://s4.awings.me/api/bg/apk/wingslet-latest.apk?v=77
