@@ -22,3 +22,8 @@
 * [Android](https://s2.awings.me/api/bg/apk/wingslet.apk?v=77)
     * http://s3.awings.me/api/bg/apk/wingslet-latest.apk?v=77
     * http://s4.awings.me/api/bg/apk/wingslet-latest.apk?v=77
+
+## 小羽用户交流群
+欢迎加入频道和进群交流
+    * [交流群](https://t.me/xiaoyuorg)
+    * [频道](https://t.me/xiaoyuclub)
