@@ -2,7 +2,8 @@
 <span style="color:#FF0000;">如果点击不能下载, 请复制链接到新窗口下载</span>
 
 ## 小羽Pro网址
-* [http://w1.awings.me](http://w1.awings.me) [http://w2.awings.me](http://w2.awings.me) [http://w3.awings.me](http://w3.awings.me) [http://w4.awings.me](http://w4.awings.me)
+* [http://w5.awings.me](http://w5.awings.me) [http://w6.awings.me](http://w6.awings.me)
+* [http://w3.awings.me](http://w3.awings.me) [http://w4.awings.me](http://w4.awings.me) [http://w1.awings.me](http://w1.awings.me) [http://w2.awings.me](http://w2.awings.me)
 * [http://w11.awings.info](http://w11.awings.info)  [http://w12.awings.info](http://w12.awings.info) [http://w13.awings.info](http://w13.awings.info)
 * [https://w9.awings.info](https://w9.awings.info) [https://w8.awings.info](https://w8.awings.info) [https://w4.awings.info](https://w4.awings.info)
 * [https://w3.awings.info](https://w3.awings.info) [http://w6.awings.info/](http://w6.awings.info) [http://w7.awings.info/](http://w7.awings.info)
