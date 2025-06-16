@@ -2,7 +2,7 @@
 <span style="color:#FF0000;">如果点击不能下载, 请复制链接到新窗口下载</span>
 
 ## 小羽Pro网址
-* [http://w3.iwings.me](http://w3.iwings.me) [http://w2.iwings.me](http://w2.iwings.me) [http://w4.iwings.me](http://w4.iwings.me)
+* [http://w4.iwings.me](http://w4.iwings.me) [http://w5.iwings.me](http://w5.iwings.me) [http://w2.iwings.me](http://w2.iwings.me)
 
 ## 小羽Pro客户端下载地址
 * [Android](http://s3.iwings.me/api/bg/apk/xiaoyupro-android-latest.apk?v=100)
