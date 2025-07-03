@@ -6,6 +6,7 @@
 
 ## 小羽Pro客户端下载地址
 * [Android](http://s4.iwings.me/api/bg/apk/xiaoyupro-android-latest.apk?v=100)
+    * [http://s4.iwings.me/api/bg/apk/xiaoyupro-android-latest.apk?v=100](http://s4.iwings.me/api/bg/apk/xiaoyupro-android-latest.apk?v=100)
     * http://s2.iwings.me/api/bg/apk/xiaoyupro-android-latest.apk?v=100
     * http://s5.iwings.me/api/bg/apk/xiaoyupro-android-latest.apk?v=100
 * [Windows](http://s4.iwings.me/api/bg/apk/xiaoyupro-win-latest.exe?v=100)
