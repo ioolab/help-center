@@ -11,8 +11,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "vuepress": "^2.0.0-rc.8",
-    "@vuepress/bundler-vite": "^2.0.0-rc.8",
-    "@vuepress/theme-default": "^2.0.0-rc.8"
+    "vuepress": "^1.9.10"
   }
 }
