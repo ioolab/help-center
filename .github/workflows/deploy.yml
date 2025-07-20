@@ -37,8 +37,11 @@ jobs:
       run: |
         echo "Checking for build output..."
         ls -la docs/.vuepress/ || echo "No .vuepress directory"
-        find docs -name "dist" -type d || echo "No dist directory found"
-        find docs -name "*.html" -type f || echo "No HTML files found"
+        echo "Looking for all directories and HTML files..."
+        find . -name "dist" -type d 2>/dev/null || echo "No dist directory found anywhere"
+        find . -name "*.html" -type f 2>/dev/null || echo "No HTML files found anywhere"
+        echo "Checking entire project structure..."
+        find . -maxdepth 3 -type d | head -20
 
     - name: Setup Pages
       uses: actions/configure-pages@v4
