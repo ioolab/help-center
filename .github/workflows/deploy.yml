@@ -23,9 +23,10 @@ jobs:
         node-version: '18'
         cache: 'npm'
 
-    - name: Install dependencies
+    - name: Clean npm cache and install dependencies
       run: |
-        npm install -D vuepress
+        npm cache clean --force
+        npm install
 
     - name: Build VuePress site
       run: |
