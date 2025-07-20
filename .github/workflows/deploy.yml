@@ -29,7 +29,16 @@ jobs:
 
     - name: Build VuePress site
       run: |
-        npm run docs:build
+        echo "Starting VuePress build..."
+        npm run docs:build || (echo "Build failed, showing logs:" && cat npm-debug.log 2>/dev/null || echo "No debug log found")
+        echo "Build completed"
+
+    - name: Check build output
+      run: |
+        echo "Checking for build output..."
+        ls -la docs/.vuepress/ || echo "No .vuepress directory"
+        find docs -name "dist" -type d || echo "No dist directory found"
+        find docs -name "*.html" -type f || echo "No HTML files found"
 
     - name: Setup Pages
       uses: actions/configure-pages@v4
