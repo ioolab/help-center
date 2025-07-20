@@ -20,9 +20,9 @@
 
 ## 小羽免费版下载地址
 * Android
-    * http://s4.iwings.me/api/bg/apk/wingslet-latest.apk?v=80
-    * http://s2.iwings.me/api/bg/apk/wingslet-latest.apk?v=80
     * http://s5.iwings.me/api/bg/apk/wingslet-latest.apk?v=80
+    * http://s2.iwings.me/api/bg/apk/wingslet-latest.apk?v=80
+    * http://s6.iwings.me/api/bg/apk/wingslet-latest.apk?v=80
 
 ## 小羽用户交流群
 * 欢迎加入频道和进群交流
