@@ -1,18 +1,44 @@
 name: Build and Deploy
-on: [push]
+on: 
+  push:
+    branches: [ master ]
+
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    
     steps:
     - name: Checkout
-      uses: actions/checkout@master
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
 
-    - name: vuepress-deploy
-      uses: jenkey2011/vuepress-deploy@master
-      env:
-        ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-        TARGET_REPO: ioolab/help-center
-        TARGET_BRANCH: gh-pages
-        BUILD_SCRIPT: npm install -D vuepress && npm run docs:build
-        BUILD_DIR: docs/.vuepress/dist
-        # CNAME: https://www.xxx.com
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '18'
+        cache: 'npm'
+
+    - name: Install dependencies
+      run: |
+        npm install -D vuepress
+
+    - name: Build VuePress site
+      run: |
+        npm run docs:build
+
+    - name: Setup Pages
+      uses: actions/configure-pages@v3
+
+    - name: Upload artifact
+      uses: actions/upload-pages-artifact@v2
+      with:
+        path: docs/.vuepress/dist
+
+    - name: Deploy to GitHub Pages
+      id: deployment
+      uses: actions/deploy-pages@v2
