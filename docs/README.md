@@ -6,17 +6,17 @@
 
 ## 小羽Pro客户端下载地址
 * Android
-    * http://s2.awings.xyz/api/bg/apk/xiaoyupro-android-latest.apk?v=100
-    * http://s2.iwings.me/api/bg/apk/xiaoyupro-android-latest.apk?v=100
-    * http://s5.iwings.me/api/bg/apk/xiaoyupro-android-latest.apk?v=100
+    * http://s2.awings.xyz/api/bg/apk/xiaoyupro-android-latest.apk?v=22
+    * http://s2.iwings.me/api/bg/apk/xiaoyupro-android-latest.apk?v=22
+    * http://s5.iwings.me/api/bg/apk/xiaoyupro-android-latest.apk?v=22
 * Windows
-    * http://s2.awings.xyz/api/bg/apk/xiaoyupro-win-latest.exe?v=100
-    * http://s2.iwings.me/api/bg/apk/xiaoyupro-win-latest.exe?v=100
-    * http://s5.iwings.me/api/bg/apk/xiaoyupro-win-latest.exe?v=100
+    * http://s2.awings.xyz/api/bg/apk/xiaoyupro-win-latest.exe?v=22
+    * http://s2.iwings.me/api/bg/apk/xiaoyupro-win-latest.exe?v=22
+    * http://s5.iwings.me/api/bg/apk/xiaoyupro-win-latest.exe?v=22
 * MacOS
-    * http://s2.awings.xyz/api/bg/apk/xiaoyupro-mac-latest.dmg?v=100
-    * http://s2.iwings.me/api/bg/apk/xiaoyupro-mac-latest.dmg?v=100
-    * http://s5.iwings.me/api/bg/apk/xiaoyupro-mac-latest.dmg?v=100
+    * http://s2.awings.xyz/api/bg/apk/xiaoyupro-mac-latest.dmg?v=22
+    * http://s2.iwings.me/api/bg/apk/xiaoyupro-mac-latest.dmg?v=22
+    * http://s5.iwings.me/api/bg/apk/xiaoyupro-mac-latest.dmg?v=22
 
 ## 小羽免费版下载地址
 * Android
