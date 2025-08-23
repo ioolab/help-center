@@ -1,26 +1,26 @@
 # 最新网址
 <span style="color:#FF0000;">请复制链接到新窗口下载</span>
 
-## 小羽Pro网址
-* [http://w7.awings.xyz](http://w7.awings.xyz) [https://w8.awings.xyz](https://w8.awings.xyz) [http://w9.awings.xyz](http://w9.awings.xyz) [http://w2.iwings.me](http://w2.iwings.me)
+## [小羽Pro网址](https://xiaoyupro.com)
+* [https://xiaoyupro.com](https://xiaoyupro.com) [http://w2.iwings.me](http://w2.iwings.me)
 
 ## 小羽Pro客户端下载地址
-* Android
-    * http://s4.awings.xyz/api/bg/apk/xiaoyupro-android-latest.apk?v=22
+* [Android](https://static.xiaoyupro.com/api/bg/apk/xiaoyupro-android-latest.apk?v=22)
+    * https://static.xiaoyupro.com/api/bg/apk/xiaoyupro-android-latest.apk?v=22
     * http://s2.iwings.me/api/bg/apk/xiaoyupro-android-latest.apk?v=22
     * http://s5.iwings.me/api/bg/apk/xiaoyupro-android-latest.apk?v=22
-* Windows
-    * http://s4.awings.xyz/api/bg/apk/xiaoyupro-win-latest.exe?v=22
+* [Windows](https://static.xiaoyupro.com/api/bg/apk/xiaoyupro-win-latest.exe?v=22)
+    * https://static.xiaoyupro.com/api/bg/apk/xiaoyupro-win-latest.exe?v=22
     * http://s2.iwings.me/api/bg/apk/xiaoyupro-win-latest.exe?v=22
     * http://s5.iwings.me/api/bg/apk/xiaoyupro-win-latest.exe?v=22
-* MacOS
-    * http://s4.awings.xyz/api/bg/apk/xiaoyupro-mac-latest.dmg?v=22
+* [MacOS](https://static.xiaoyupro.com/api/bg/apk/xiaoyupro-mac-latest.dmg?v=22)
+    * https://static.xiaoyupro.com/api/bg/apk/xiaoyupro-mac-latest.dmg?v=22
     * http://s2.iwings.me/api/bg/apk/xiaoyupro-mac-latest.dmg?v=22
     * http://s5.iwings.me/api/bg/apk/xiaoyupro-mac-latest.dmg?v=22
 
 ## 小羽免费版下载地址
-* Android
-    * http://s4.awings.xyz/api/bg/apk/wingslet-latest.apk?v=82
+* [Android](https://static.xiaoyupro.com/api/bg/apk/wingslet-latest.apk?v=82)
+    * https://static.xiaoyupro.com/api/bg/apk/wingslet-latest.apk?v=82
     * http://s4.iwings.me/api/bg/apk/wingslet-latest.apk?v=82
     * http://s2.iwings.me/api/bg/apk/wingslet-latest.apk?v=82
 
