@@ -1,5 +1,5 @@
 # 最新网址
-<span style="color:#FF0000;">请复制链接到新窗口下载</span>
+<span style="color:#FF0000;">请复制链接到新窗口下载 ^_^</span>
 
 ## [小羽Pro网址](https://xiaoyupro.com)
 * [https://c6.xiaoyupro.club](https://c6.xiaoyupro.club) [https://w6.xiaoyupro.club](https://w6.xiaoyupro.club) [http://w2.xiaoyupro.club](http://w2.xiaoyupro.club) [https://w2.iwings.me](https://w2.iwings.me) [https://xiaoyupro.com](https://xiaoyupro.com)
