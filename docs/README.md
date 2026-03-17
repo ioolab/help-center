@@ -5,28 +5,20 @@
 * [https://w6.xiaoyupro.club](https://w6.xiaoyupro.club) [https://c7.xiaoyupro.club](https://c7.xiaoyupro.club) [http://w2.xiaoyupro.club](http://w2.xiaoyupro.club) [https://w2.iwings.me](https://w2.iwings.me) [https://xiaoyupro.com](https://xiaoyupro.com)
 
 ## 小羽Pro客户端下载地址
-* [Android](https://s2.xiaoyupro.shop/api/bg/apk/xiaoyupro-android-latest.apk?v=22)
-    * https:/s2.xiaoyupro.shop/api/bg/apk/xiaoyupro-android-latest.apk?v=22
+* [Android](https://s6.xiaoyupro.shop/api/bg/apk/xiaoyupro-android-latest.apk?v=22)
+    * https:/s6.xiaoyupro.shop/api/bg/apk/xiaoyupro-android-latest.apk?v=22
     * https://static.xiaoyupro.club/api/bg/apk/xiaoyupro-android-latest.apk?v=22
-    * http://s2.iwings.me/api/bg/apk/xiaoyupro-android-latest.apk?v=22
-    * http://s5.iwings.me/api/bg/apk/xiaoyupro-android-latest.apk?v=22
-* [Windows](https://s2.xiaoyupro.shop/api/bg/apk/xiaoyupro-win-latest.exe?v=22)
-    * https://s2.xiaoyupro.shop/api/bg/apk/xiaoyupro-win-latest.exe?v=22
+* [Windows](https://s6.xiaoyupro.shop/api/bg/apk/xiaoyupro-win-latest.exe?v=22)
+    * https://s6.xiaoyupro.shop/api/bg/apk/xiaoyupro-win-latest.exe?v=22
     * https://static.xiaoyupro.club/api/bg/apk/xiaoyupro-win-latest.exe?v=22
-    * http://s2.iwings.me/api/bg/apk/xiaoyupro-win-latest.exe?v=22
-    * http://s5.iwings.me/api/bg/apk/xiaoyupro-win-latest.exe?v=22
-* [MacOS](https://s2.xiaoyupro.shop/api/bg/apk/xiaoyupro-mac-latest.dmg?v=22)
-    * https://s2.xiaoyupro.shop/api/bg/apk/xiaoyupro-mac-latest.dmg?v=22
+* [MacOS](https://s6.xiaoyupro.shop/api/bg/apk/xiaoyupro-mac-latest.dmg?v=22)
+    * https://s6.xiaoyupro.shop/api/bg/apk/xiaoyupro-mac-latest.dmg?v=22
     * https://static.xiaoyupro.club/api/bg/apk/xiaoyupro-mac-latest.dmg?v=22
-    * http://s2.iwings.me/api/bg/apk/xiaoyupro-mac-latest.dmg?v=22
-    * http://s5.iwings.me/api/bg/apk/xiaoyupro-mac-latest.dmg?v=22
 
 ## 小羽免费版下载地址
 * [Android](https://s6.xiaoyupro.shop/api/bg/apk/mix/wingsmix-latest.apk?v=11)
     * https://s6.xiaoyupro.shop/api/bg/apk/mix/wingsmix-latest.apk?v=11
     * https://static.xiaoyupro.club/api/bg/apk/wingslet-latest.apk?v=83
-    * http://s4.iwings.me/api/bg/apk/wingslet-latest.apk?v=83
-    * http://s2.iwings.me/api/bg/apk/wingslet-latest.apk?v=83
 
 ## 小羽用户交流群
 * 欢迎加入频道和进群交流
