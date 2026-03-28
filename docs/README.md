@@ -16,9 +16,9 @@
     * https://static.xiaoyupro.club/api/bg/apk/xiaoyupro-mac-latest.dmg?v=22
 
 ## 小羽免费版下载地址
-* [Android](https://s6.xiaoyupro.shop/api/bg/apk/mix/wingsmix-latest.apk?v=11)
-    * https://s6.xiaoyupro.shop/api/bg/apk/mix/wingsmix-latest.apk?v=11
-    * https://static.xiaoyupro.club/api/bg/apk/wingslet-latest.apk?v=83
+* [Android](https://s6.xiaoyupro.shop/api/bg/apk/mix/wingsmix-latest.apk?v=14)
+    * https://s6.xiaoyupro.shop/api/bg/apk/mix/wingsmix-latest.apk?v=14
+    * https://static.xiaoyupro.club/api/bg/apk/wingslet-latest.apk?v=14
 
 ## 小羽用户交流群
 * 欢迎加入频道和进群交流
