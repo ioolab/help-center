@@ -6,8 +6,8 @@
 
 ## 小羽Pro客户端下载地址
 * [Android](https://s3.ixiaoyu.shop/api/bg/apk/xiaoyupro-android-latest.apk?v=22)
-    * https:/s3.ixiaoyu.shop/api/bg/apk/xiaoyupro-android-latest.apk?v=22
-    * https:/s1.ixiaoyu.shop/api/bg/apk/xiaoyupro-android-latest.apk?v=22
+    * https://s3.ixiaoyu.shop/api/bg/apk/xiaoyupro-android-latest.apk?v=22
+    * https://s1.ixiaoyu.shop/api/bg/apk/xiaoyupro-android-latest.apk?v=22
     * https://static.xiaoyupro.club/api/bg/apk/xiaoyupro-android-latest.apk?v=22
 * [Windows](https://s3.ixiaoyu.shop/api/bg/apk/xiaoyupro-win-latest.exe?v=22)
     * https://s3.ixiaoyu.shop/api/bg/apk/xiaoyupro-win-latest.exe?v=22
