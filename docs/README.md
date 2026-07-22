@@ -2,26 +2,26 @@
 <span style="color:#FF0000;">请复制链接到新窗口下载 ^_^</span>
 
 ## [小羽Pro网址](https://xiaoyupro.com)
-* [https://w2.ixiaoyu.xyz](https://w2.ixiaoyu.xyz) [https://w3.ixiaoyu.xyz](https://w3.ixiaoyu.xyz) [https://c2.ixiaoyu.xyz](https://c2.ixiaoyu.xyz) [https://i.xiaoyupro.com](https://i.xiaoyupro.com)
+* [https://w3.ixiaoyu.xyz](https://w3.ixiaoyu.xyz) [https://w2.ixiaoyu.xyz](https://w2.ixiaoyu.xyz) [https://c2.ixiaoyu.xyz](https://c2.ixiaoyu.xyz) [https://i.xiaoyupro.com](https://i.xiaoyupro.com)
 
 ## 小羽Pro客户端下载地址
-* [Android](https://s1.ixiaoyu.shop/api/bg/apk/xiaoyupro-android-latest.apk?v=22)
-    * https:/s1.ixiaoyu.shop/api/bg/apk/xiaoyupro-android-latest.apk?v=22
+* [Android](https://s3.ixiaoyu.shop/api/bg/apk/xiaoyupro-android-latest.apk?v=22)
     * https:/s3.ixiaoyu.shop/api/bg/apk/xiaoyupro-android-latest.apk?v=22
+    * https:/s1.ixiaoyu.shop/api/bg/apk/xiaoyupro-android-latest.apk?v=22
     * https://static.xiaoyupro.club/api/bg/apk/xiaoyupro-android-latest.apk?v=22
-* [Windows](https://s1.ixiaoyu.shop/api/bg/apk/xiaoyupro-win-latest.exe?v=22)
-    * https://s1.ixiaoyu.shop/api/bg/apk/xiaoyupro-win-latest.exe?v=22
+* [Windows](https://s3.ixiaoyu.shop/api/bg/apk/xiaoyupro-win-latest.exe?v=22)
     * https://s3.ixiaoyu.shop/api/bg/apk/xiaoyupro-win-latest.exe?v=22
+    * https://s1.ixiaoyu.shop/api/bg/apk/xiaoyupro-win-latest.exe?v=22
     * https://static.xiaoyupro.club/api/bg/apk/xiaoyupro-win-latest.exe?v=22
-* [MacOS](https://s1.ixiaoyu.shop/api/bg/apk/xiaoyupro-mac-latest.dmg?v=22)
-    * https://s1.ixiaoyu.shop/api/bg/apk/xiaoyupro-mac-latest.dmg?v=22
+* [MacOS](https://s3.ixiaoyu.shop/api/bg/apk/xiaoyupro-mac-latest.dmg?v=22)
     * https://s3.ixiaoyu.shop/api/bg/apk/xiaoyupro-mac-latest.dmg?v=22
+    * https://s1.ixiaoyu.shop/api/bg/apk/xiaoyupro-mac-latest.dmg?v=22
     * https://static.xiaoyupro.club/api/bg/apk/xiaoyupro-mac-latest.dmg?v=22
 
 ## 小羽免费版下载地址
 * [Android](https://s1.ixiaoyu.shop/api/bg/apk/mix/wingsmix-latest.apk?v=15)
-    * https://s1.ixiaoyu.shop/api/bg/apk/mix/wingsmix-latest.apk?v=15
     * https://s3.ixiaoyu.shop/api/bg/apk/mix/wingsmix-latest.apk?v=15
+    * https://s1.ixiaoyu.shop/api/bg/apk/mix/wingsmix-latest.apk?v=15
     * https://static.xiaoyupro.club/api/bg/apk/wingslet-latest.apk?v=15
 
 ## 小羽用户交流群
