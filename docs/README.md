@@ -5,18 +5,18 @@
 * [https://w1.ixiaoyu.biz](https://w1.ixiaoyu.biz) [https://i.xiaoyupro.com](https://i.xiaoyupro.com)
 
 ## 小羽Pro客户端下载地址
-* [Android](https://s3.ixiaoyu.shop/api/bg/apk/xiaoyupro-android-latest.apk?v=22)
-    * https://s1.ixiaoyu.shop/api/bg/apk/xiaoyupro-android-latest.apk?v=22
-    * https://s3.ixiaoyu.shop/api/bg/apk/xiaoyupro-android-latest.apk?v=22
-    * https://static.xiaoyupro.club/api/bg/apk/xiaoyupro-android-latest.apk?v=22
-* [Windows](https://s3.ixiaoyu.shop/api/bg/apk/xiaoyupro-win-latest.exe?v=22)
-    * https://s1.ixiaoyu.shop/api/bg/apk/xiaoyupro-win-latest.exe?v=22
-    * https://s3.ixiaoyu.shop/api/bg/apk/xiaoyupro-win-latest.exe?v=22
-    * https://static.xiaoyupro.club/api/bg/apk/xiaoyupro-win-latest.exe?v=22
-* [MacOS](https://s3.ixiaoyu.shop/api/bg/apk/xiaoyupro-mac-latest.dmg?v=22)
-    * https://s1.ixiaoyu.shop/api/bg/apk/xiaoyupro-mac-latest.dmg?v=22
-    * https://s3.ixiaoyu.shop/api/bg/apk/xiaoyupro-mac-latest.dmg?v=22
-    * https://static.xiaoyupro.club/api/bg/apk/xiaoyupro-mac-latest.dmg?v=22
+* [Android](https://s3.ixiaoyu.shop/api/bg/apk/xiaoyupro-android-latest.apk?v=23)
+    * https://s1.ixiaoyu.shop/api/bg/apk/xiaoyupro-android-latest.apk?v=23
+    * https://s3.ixiaoyu.shop/api/bg/apk/xiaoyupro-android-latest.apk?v=23
+    * https://static.xiaoyupro.club/api/bg/apk/xiaoyupro-android-latest.apk?v=23
+* [Windows](https://s3.ixiaoyu.shop/api/bg/apk/xiaoyupro-win-latest.exe?v=23)
+    * https://s1.ixiaoyu.shop/api/bg/apk/xiaoyupro-win-latest.exe?v=23
+    * https://s3.ixiaoyu.shop/api/bg/apk/xiaoyupro-win-latest.exe?v=23
+    * https://static.xiaoyupro.club/api/bg/apk/xiaoyupro-win-latest.exe?v=23
+* [MacOS](https://s3.ixiaoyu.shop/api/bg/apk/xiaoyupro-mac-latest.dmg?v=23)
+    * https://s1.ixiaoyu.shop/api/bg/apk/xiaoyupro-mac-latest.dmg?v=23
+    * https://s3.ixiaoyu.shop/api/bg/apk/xiaoyupro-mac-latest.dmg?v=23
+    * https://static.xiaoyupro.club/api/bg/apk/xiaoyupro-mac-latest.dmg?v=23
 
 ## 小羽免费版下载地址
 * [Android](https://s1.ixiaoyu.shop/api/bg/apk/mix/wingsmix-latest.apk?v=15)
