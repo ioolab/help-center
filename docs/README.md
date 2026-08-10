@@ -2,7 +2,7 @@
 <span style="color:#FF0000;">请复制链接到新窗口下载 ^_^</span>
 
 ## [小羽Pro网址](https://xiaoyupro.com)
-* [https://w1.ixiaoyu.biz](https://w1.ixiaoyu.biz) [https://w2.ixiaoyu.biz](https://w2.ixiaoyu.biz) [https://i.xiaoyupro.com](https://i.xiaoyupro.com)
+* [https://w3.ixiaoyu.biz](https://w3.ixiaoyu.biz) [https://w1.ixiaoyu.biz](https://w1.ixiaoyu.biz) [https://w2.ixiaoyu.biz](https://w2.ixiaoyu.biz) [https://i.xiaoyupro.com](https://i.xiaoyupro.com)
 
 ## 小羽Pro客户端下载地址
 * [Android](https://s3.ixiaoyu.shop/api/bg/apk/xiaoyupro-android-latest.apk?v=232)
