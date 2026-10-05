@@ -6,21 +6,21 @@
 
 ## 小羽Pro客户端下载地址
 * [Android](https://s3.ixiaoyu.shop/api/bg/apk/xiaoyupro-android-latest.apk?v=232)
-    * https://s1.ixiaoyu.shop/api/bg/apk/xiaoyupro-android-latest.apk?v=232
+    * http://s1.ixiaoyu.shop/api/bg/apk/xiaoyupro-android-latest.apk?v=232
     * https://s3.ixiaoyu.shop/api/bg/apk/xiaoyupro-android-latest.apk?v=232
     * https://static.xiaoyupro.club/api/bg/apk/xiaoyupro-android-latest.apk?v=232
 * [Windows](https://s3.ixiaoyu.shop/api/bg/apk/xiaoyupro-win-latest.exe?v=232)
-    * https://s1.ixiaoyu.shop/api/bg/apk/xiaoyupro-win-latest.exe?v=232
+    * http://s1.ixiaoyu.shop/api/bg/apk/xiaoyupro-win-latest.exe?v=232
     * https://s3.ixiaoyu.shop/api/bg/apk/xiaoyupro-win-latest.exe?v=232
     * https://static.xiaoyupro.club/api/bg/apk/xiaoyupro-win-latest.exe?v=232
 * [MacOS](https://s3.ixiaoyu.shop/api/bg/apk/xiaoyupro-mac-latest.dmg?v=232)
-    * https://s1.ixiaoyu.shop/api/bg/apk/xiaoyupro-mac-latest.dmg?v=232
+    * http://s1.ixiaoyu.shop/api/bg/apk/xiaoyupro-mac-latest.dmg?v=232
     * https://s3.ixiaoyu.shop/api/bg/apk/xiaoyupro-mac-latest.dmg?v=232
     * https://static.xiaoyupro.club/api/bg/apk/xiaoyupro-mac-latest.dmg?v=232
 
 ## 小羽免费版下载地址
 * [Android](https://s1.ixiaoyu.shop/api/bg/apk/mix/wingsmix-latest.apk?v=15)
-    * https://s1.ixiaoyu.shop/api/bg/apk/mix/wingsmix-latest.apk?v=21
+    * http://s1.ixiaoyu.shop/api/bg/apk/mix/wingsmix-latest.apk?v=21
     * https://s3.ixiaoyu.shop/api/bg/apk/mix/wingsmix-latest.apk?v=21
     * https://static.xiaoyupro.club/api/bg/apk/wingslet-latest.apk?v=21
 
